@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Star Wars: Episode IV - A New Hope (1977)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode V - The Empire Strikes Back (1980)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode VI - Return of the Jedi (1983)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode I - The Phantom Menace (1999)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode II - Attack of the Clones (2002)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode III - Revenge of the Sith (2005)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode VII - The Force Awakens (2015)", "img": "Placeholder" },
+    { "name": "Rogue One: A Star Wars Story (2016)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode VIII - The Last Jedi (2017)", "img": "Placeholder" },
+    { "name": "Solo: A Star Wars Story (2018)", "img": "Placeholder" },
+    { "name": "Star Wars: Episode IX - The Rise of Skywalker (2019)", "img": "Placeholder" }
+  ]
+}
