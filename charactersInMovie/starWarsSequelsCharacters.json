@@ -1,0 +1,21 @@
+{
+  "items": [
+    { "name": "Rey", "img": "Placeholder" },
+    { "name": "Finn", "img": "Placeholder" },
+    { "name": "Poe Dameron", "img": "Placeholder" },
+    { "name": "Kylo Ren / Ben Solo", "img": "Placeholder" },
+    { "name": "Leia Organa", "img": "Placeholder" },
+    { "name": "Han Solo", "img": "Placeholder" },
+    { "name": "Luke Skywalker", "img": "Placeholder" },
+    { "name": "General Hux", "img": "Placeholder" },
+    { "name": "Rose Tico", "img": "Placeholder" },
+    { "name": "Supreme Leader Snoke", "img": "Placeholder" },
+    { "name": "Maz Kanata", "img": "Placeholder" },
+    { "name": "Captain Phasma", "img": "Placeholder" },
+    { "name": "Chewbacca", "img": "Placeholder" },
+    { "name": "Admiral Holdo", "img": "Placeholder" },
+    { "name": "Zorii Bliss", "img": "Placeholder" },
+    { "name": "Babu Frik", "img": "Placeholder" },
+    { "name": "Allegiant General Pryde", "img": "Placeholder" }
+  ]
+}
