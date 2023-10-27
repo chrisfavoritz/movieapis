@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Luke Skywalker", "img": "Placeholder" },
+    { "name": "Princess Leia Organa", "img": "Placeholder" },
+    { "name": "Han Solo", "img": "Placeholder" },
+    { "name": "Chewbacca", "img": "Placeholder" },
+    { "name": "Darth Vader", "img": "Placeholder" },
+    { "name": "Obi-Wan Kenobi", "img": "Placeholder" },
+    { "name": "C-3PO", "img": "Placeholder" },
+    { "name": "R2-D2", "img": "Placeholder" },
+    { "name": "Lando Calrissian", "img": "Placeholder" },
+    { "name": "Yoda", "img": "Placeholder" },
+    { "name": "Emperor Palpatine", "img": "Placeholder" },
+    { "name": "Boba Fett", "img": "Placeholder" },
+    { "name": "Admiral Ackbar", "img": "Placeholder" },
+    { "name": "Jabba the Hutt", "img": "Placeholder" },
+    { "name": "Wicket W. Warrick", "img": "Placeholder" },
+    { "name": "Ewoks", "img": "Placeholder" },
+    { "name": "Nien Nunb", "img": "Placeholder" },
+    { "name": "Mon Mothma", "img": "Placeholder" }
+  ]
+}
