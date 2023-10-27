@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Bruce Wayne / Batman", "img": "Placeholder" },
+    { "name": "Alfred Pennyworth", "img": "Placeholder" },
+    { "name": "James Gordon", "img": "Placeholder" },
+    { "name": "Ra's al Ghul", "img": "Placeholder" },
+    { "name": "Ducard", "img": "Placeholder" },
+    { "name": "Lucius Fox", "img": "Placeholder" },
+    { "name": "Rachel Dawes", "img": "Placeholder" },
+    { "name": "Jonathan Crane / Scarecrow", "img": "Placeholder" },
+    { "name": "Harvey Dent / Two-Face", "img": "Placeholder" },
+    { "name": "The Joker", "img": "Placeholder" },
+    { "name": "Lau", "img": "Placeholder" },
+    { "name": "Coleman Reese", "img": "Placeholder" },
+    { "name": "Selina Kyle / Catwoman", "img": "Placeholder" },
+    { "name": "Bane", "img": "Placeholder" },
+    { "name": "John Blake", "img": "Placeholder" },
+    { "name": "Miranda Tate / Talia al Ghul", "img": "Placeholder" }
+  ]
+}
