@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Rocky Balboa", "img": "Placeholder" },
+    { "name": "Adrian Balboa", "img": "Placeholder" },
+    { "name": "Apollo Creed", "img": "Placeholder" },
+    { "name": "Mickey Goldmill", "img": "Placeholder" },
+    { "name": "Paulie Pennino", "img": "Placeholder" },
+    { "name": "Ivan Drago", "img": "Placeholder" },
+    { "name": "Clubber Lang", "img": "Placeholder" },
+    { "name": "Tommy Gunn", "img": "Placeholder" },
+    { "name": "Duke", "img": "Placeholder" },
+    { "name": "Mason 'The Line' Dixon", "img": "Placeholder" },
+    { "name": "Adonis Creed", "img": "Placeholder" },
+    { "name": "Bianca Taylor", "img": "Placeholder" },
+    { "name": "Mary Anne Creed", "img": "Placeholder" },
+    { "name": "Ricky Conlan", "img": "Placeholder" },
+    { "name": "Tony 'Little Duke' Evers", "img": "Placeholder" },
+    { "name": "Danny 'Stuntman' Wheeler", "img": "Placeholder" },
+    { "name": "Viktor Drago", "img": "Placeholder" },
+    { "name": "Buddy Marcelle", "img": "Placeholder" }
+  ]
+}
