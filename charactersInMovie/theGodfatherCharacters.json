@@ -1,0 +1,21 @@
+{
+  "items": [
+    { "name": "Vito Corleone", "img": "Placeholder" },
+    { "name": "Michael Corleone", "img": "Placeholder" },
+    { "name": "Sonny Corleone", "img": "Placeholder" },
+    { "name": "Fredo Corleone", "img": "Placeholder" },
+    { "name": "Tom Hagen", "img": "Placeholder" },
+    { "name": "Kay Adams", "img": "Placeholder" },
+    { "name": "Clemenza", "img": "Placeholder" },
+    { "name": "Tessio", "img": "Placeholder" },
+    { "name": "Connie Corleone", "img": "Placeholder" },
+    { "name": "Johnny Fontane", "img": "Placeholder" },
+    { "name": "Luca Brasi", "img": "Placeholder" },
+    { "name": "Apollonia Vitelli-Corleone", "img": "Placeholder" },
+    { "name": "Frank Pentangeli", "img": "Placeholder" },
+    { "name": "Hyman Roth", "img": "Placeholder" },
+    { "name": "Moe Greene", "img": "Placeholder" },
+    { "name": "Don Barzini", "img": "Placeholder" },
+    { "name": "Carlo Rizzi", "img": "Placeholder" }
+  ]
+}
