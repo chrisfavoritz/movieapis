@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Anakin Skywalker", "img": "Placeholder" },
+    { "name": "Padmé Amidala", "img": "Placeholder" },
+    { "name": "Obi-Wan Kenobi", "img": "Placeholder" },
+    { "name": "Qui-Gon Jinn", "img": "Placeholder" },
+    { "name": "Mace Windu", "img": "Placeholder" },
+    { "name": "Emperor Palpatine / Darth Sidious", "img": "Placeholder" },
+    { "name": "Count Dooku / Darth Tyranus", "img": "Placeholder" },
+    { "name": "Yoda", "img": "Placeholder" },
+    { "name": "Senator Bail Organa", "img": "Placeholder" },
+    { "name": "Darth Maul", "img": "Placeholder" },
+    { "name": "Jar Jar Binks", "img": "Placeholder" },
+    { "name": "Captain Panaka", "img": "Placeholder" },
+    { "name": "Captain Tarpals", "img": "Placeholder" },
+    { "name": "Shmi Skywalker", "img": "Placeholder" },
+    { "name": "Watto", "img": "Placeholder" },
+    { "name": "Ki-Adi-Mundi", "img": "Placeholder" },
+    { "name": "Aayla Secura", "img": "Placeholder" },
+    { "name": "Kit Fisto", "img": "Placeholder" }
+  ]
+}
