@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Reservoir Dogs (1992)", "img": "Placeholder" },
+    { "name": "Pulp Fiction (1994)", "img": "Placeholder" },
+    { "name": "Jackie Brown (1997)", "img": "Placeholder" },
+    { "name": "Kill Bill: Vol. 1 (2003)", "img": "Placeholder" },
+    { "name": "Kill Bill: Vol. 2 (2004)", "img": "Placeholder" },
+    { "name": "Death Proof (2007) [Part of the Grindhouse double feature]", "img": "Placeholder" },
+    { "name": "Inglourious Basterds (2009)", "img": "Placeholder" },
+    { "name": "Django Unchained (2012)", "img": "Placeholder" },
+    { "name": "The Hateful Eight (2015)", "img": "Placeholder" },
+    { "name": "Once Upon a Time in Hollywood (2019)", "img": "Placeholder" }
+  ]
+}
