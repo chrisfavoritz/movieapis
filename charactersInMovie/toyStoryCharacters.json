@@ -1,0 +1,24 @@
+{
+  "items": [
+    { "name": "Woody", "img": "Placeholder" },
+    { "name": "Buzz Lightyear", "img": "Placeholder" },
+    { "name": "Jessie", "img": "Placeholder" },
+    { "name": "Rex", "img": "Placeholder" },
+    { "name": "Mr. Potato Head", "img": "Placeholder" },
+    { "name": "Mrs. Potato Head", "img": "Placeholder" },
+    { "name": "Hamm", "img": "Placeholder" },
+    { "name": "Slinky Dog", "img": "Placeholder" },
+    { "name": "Bo Peep", "img": "Placeholder" },
+    { "name": "Bullseye", "img": "Placeholder" },
+    { "name": "Andy", "img": "Placeholder" },
+    { "name": "Sid", "img": "Placeholder" },
+    { "name": "Al McWhiggin", "img": "Placeholder" },
+    { "name": "Lotso (Lots-o'-Huggin' Bear)", "img": "Placeholder" },
+    { "name": "Ken", "img": "Placeholder" },
+    { "name": "Barbie", "img": "Placeholder" },
+    { "name": "Bonnie", "img": "Placeholder" },
+    { "name": "Trixie", "img": "Placeholder" },
+    { "name": "Buttercup", "img": "Placeholder" },
+    { "name": "Dolly", "img": "Placeholder" }
+  ]
+}
