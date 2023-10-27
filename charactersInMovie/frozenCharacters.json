@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Elsa", "img": "Placeholder" },
+    { "name": "Anna", "img": "Placeholder" },
+    { "name": "Olaf", "img": "Placeholder" },
+    { "name": "Kristoff", "img": "Placeholder" },
+    { "name": "Sven", "img": "Placeholder" },
+    { "name": "Hans", "img": "Placeholder" },
+    { "name": "Duke of Weselton", "img": "Placeholder" },
+    { "name": "Pabbie (the Troll King)", "img": "Placeholder" },
+    { "name": "Oaken", "img": "Placeholder" },
+    { "name": "Grand Pabbie", "img": "Placeholder" },
+    { "name": "Queen Iduna", "img": "Placeholder" },
+    { "name": "King Agnarr", "img": "Placeholder" },
+    { "name": "Marshmallow (the snow monster)", "img": "Placeholder" },
+    { "name": "Bulda (a troll)", "img": "Placeholder" },
+    { "name": "Cliff (a troll)", "img": "Placeholder" },
+    { "name": "The Bishop", "img": "Placeholder" }
+  ]
+}
