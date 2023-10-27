@@ -1,0 +1,27 @@
+{
+  "items": [
+    { "name": "Frodo Baggins", "img": "Placeholder" },
+    { "name": "Samwise Gamgee", "img": "Placeholder" },
+    { "name": "Aragorn", "img": "Placeholder" },
+    { "name": "Legolas", "img": "Placeholder" },
+    { "name": "Gimli", "img": "Placeholder" },
+    { "name": "Gandalf the Grey", "img": "Placeholder" },
+    { "name": "Boromir", "img": "Placeholder" },
+    { "name": "Merry", "img": "Placeholder" },
+    { "name": "Pippin", "img": "Placeholder" },
+    { "name": "Treebeard", "img": "Placeholder" },
+    { "name": "Éowyn", "img": "Placeholder" },
+    { "name": "Faramir", "img": "Placeholder" },
+    { "name": "Gollum / Sméagol", "img": "Placeholder" },
+    { "name": "King Théoden", "img": "Placeholder" },
+    { "name": "Denethor", "img": "Placeholder" },
+    { "name": "Arwen", "img": "Placeholder" },
+    { "name": "Saruman the White", "img": "Placeholder" },
+    { "name": "The Witch-king of Angmar", "img": "Placeholder" },
+    { "name": "Gríma Wormtongue", "img": "Placeholder" },
+    { "name": "Elrond", "img": "Placeholder" },
+    { "name": "Galadriel", "img": "Placeholder" },
+    { "name": "Celeborn", "img": "Placeholder" },
+    { "name": "Radagast the Brown", "img": "Placeholder" }
+  ]
+}
