@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Spider-Man: No Way Home", "img": "placeholder_image_url" },
+    { "name": "Shang-Chi and the Legend of the Ten Rings", "img": "placeholder_image_url" },
+    { "name": "Venom: Let There Be Carnage", "img": "placeholder_image_url" },
+    { "name": "Black Widow", "img": "placeholder_image_url" },
+    { "name": "F9", "img": "placeholder_image_url" },
+    { "name": "Eternals", "img": "placeholder_image_url" },
+    { "name": "Sing 2", "img": "placeholder_image_url" },
+    { "name": "No Time To Die", "img": "placeholder_image_url" },
+    { "name": "A Quiet Place Part II", "img": "placeholder_image_url" },
+    { "name": "Ghostbusters: Afterlife", "img": "placeholder_image_url" }
+  ]
+}
