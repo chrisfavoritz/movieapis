@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Avengers: Endgame", "img": "placeholder_image_url" },
+    { "name": "The Lion King", "img": "placeholder_image_url" },
+    { "name": "Star Wars: The Rise of Skywalker", "img": "placeholder_image_url" },
+    { "name": "Frozen II", "img": "placeholder_image_url" },
+    { "name": "Toy Story 4", "img": "placeholder_image_url" },
+    { "name": "Captain Marvel", "img": "placeholder_image_url" },
+    { "name": "Spider-Man: Far From Home", "img": "placeholder_image_url" },
+    { "name": "Aladdin", "img": "placeholder_image_url" },
+    { "name": "Joker", "img": "placeholder_image_url" },
+    { "name": "Jumanji: The Next Level", "img": "placeholder_image_url" }
+  ]
+}
