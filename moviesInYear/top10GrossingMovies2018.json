@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Black Panther", "img": "placeholder_image_url" },
+    { "name": "Avengers: Infinity War", "img": "placeholder_image_url" },
+    { "name": "Incredibles 2", "img": "placeholder_image_url" },
+    { "name": "Jurassic World: Fallen Kingdom", "img": "placeholder_image_url" },
+    { "name": "Aquaman", "img": "placeholder_image_url" },
+    { "name": "Deadpool 2", "img": "placeholder_image_url" },
+    { "name": "The Grinch", "img": "placeholder_image_url" },
+    { "name": "Mission: Impossible – Fallout", "img": "placeholder_image_url" },
+    { "name": "Ant-Man and the Wasp", "img": "placeholder_image_url" },
+    { "name": "Bohemian Rhapsody", "img": "placeholder_image_url" }
+  ]
+}
