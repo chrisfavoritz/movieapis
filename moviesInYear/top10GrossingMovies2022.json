@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Top Gun: Maverick", "img": "placeholder_image_url" },
+    { "name": "Avatar: The Way of Water", "img": "placeholder_image_url" },
+    { "name": "Black Panther: Wakanda Forever", "img": "placeholder_image_url" },
+    { "name": "Doctor Strange in the Multiverse of Madness", "img": "placeholder_image_url" },
+    { "name": "Jurassic World Dominion", "img": "placeholder_image_url" },
+    { "name": "Minions: The Rise of Gru", "img": "placeholder_image_url" },
+    { "name": "The Batman", "img": "placeholder_image_url" },
+    { "name": "Thor: Love and Thunder", "img": "placeholder_image_url" },
+    { "name": "Sonic the Hedgehog 2", "img": "placeholder_image_url" },
+    { "name": "Puss in Boots: The Last Wish", "img": "placeholder_image_url" }
+  ]
+}
