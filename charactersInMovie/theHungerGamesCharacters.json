@@ -1,0 +1,25 @@
+{
+  "items": [
+    { "name": "Katniss Everdeen", "img": "Placeholder" },
+    { "name": "Peeta Mellark", "img": "Placeholder" },
+    { "name": "Gale Hawthorne", "img": "Placeholder" },
+    { "name": "President Snow", "img": "Placeholder" },
+    { "name": "Haymitch Abernathy", "img": "Placeholder" },
+    { "name": "Effie Trinket", "img": "Placeholder" },
+    { "name": "Cinna", "img": "Placeholder" },
+    { "name": "Primrose 'Prim' Everdeen", "img": "Placeholder" },
+    { "name": "Rue", "img": "Placeholder" },
+    { "name": "Thresh", "img": "Placeholder" },
+    { "name": "Cato", "img": "Placeholder" },
+    { "name": "Clove", "img": "Placeholder" },
+    { "name": "Finnick Odair", "img": "Placeholder" },
+    { "name": "Johanna Mason", "img": "Placeholder" },
+    { "name": "Beetee", "img": "Placeholder" },
+    { "name": "Wiress", "img": "Placeholder" },
+    { "name": "Mags", "img": "Placeholder" },
+    { "name": "Boggs", "img": "Placeholder" },
+    { "name": "Plutarch Heavensbee", "img": "Placeholder" },
+    { "name": "Caesar Flickerman", "img": "Placeholder" },
+    { "name": "Seneca Crane", "img": "Placeholder" }
+  ]
+}
