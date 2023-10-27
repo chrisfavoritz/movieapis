@@ -1,0 +1,19 @@
+{
+  "items": [
+    { "name": "Action", "img": "Placeholder" },
+    { "name": "Adventure", "img": "Placeholder" },
+    { "name": "Animation", "img": "Placeholder" },
+    { "name": "Comedy", "img": "Placeholder" },
+    { "name": "Crime", "img": "Placeholder" },
+    { "name": "Drama", "img": "Placeholder" },
+    { "name": "Fantasy", "img": "Placeholder" },
+    { "name": "Horror", "img": "Placeholder" },
+    { "name": "Musical", "img": "Placeholder" },
+    { "name": "Mystery", "img": "Placeholder" },
+    { "name": "Romance", "img": "Placeholder" },
+    { "name": "Science Fiction", "img": "Placeholder" },
+    { "name": "Thriller", "img": "Placeholder" },
+    { "name": "War", "img": "Placeholder" },
+    { "name": "Western", "img": "Placeholder" }
+  ]
+}
