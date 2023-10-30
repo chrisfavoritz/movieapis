@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Rey", "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/REY.png/revision/latest?cb=20200524052256" },
+    { "name": "Finn", "img": "https://static.wikia.nocookie.net/p__/images/2/25/Ddhkosv-5e62c4a4-90b7-4769-9cec-0c73f70b2b81.png/revision/latest?cb=20200308200503&path-prefix=protagonist" },
+    { "name": "Poe Dameron", "img": "https://static.wikia.nocookie.net/starwars/images/7/7a/PoeDameron2-Fathead.png/revision/latest?cb=20161106052223" },
+    { "name": "Kylo Ren / Ben Solo", "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Kylo_Ren.png" },
+    { "name": "General Hux", "img": "https://static.wikia.nocookie.net/villains/images/8/81/Hux-0.png/revision/latest?cb=20160904211325" },
+    { "name": "Rose Tico", "img": "https://static.wikia.nocookie.net/hero-and-villains/images/9/94/Rose_Tico.png/revision/latest?cb=20200214111649" },
+    { "name": "Maz Kanata", "img": "https://static.wikia.nocookie.net/starwars/images/c/c2/MazKanada-SWI207.png/revision/latest?cb=20221201061649" },
+    { "name": "Captain Phasma", "img": "https://static.wikia.nocookie.net/villains/images/c/c9/Phasma_Transparent.png/revision/latest?cb=20220617185702" }
+  ]
+}
