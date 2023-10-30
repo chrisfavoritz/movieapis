@@ -1,17 +1,14 @@
 {
   "items": [
-    { "name": "Ron Burgundy", "img": "Placeholder" },
-    { "name": "Veronica Corningstone", "img": "Placeholder" },
-    { "name": "Brian Fantana", "img": "Placeholder" },
-    { "name": "Brick Tamland", "img": "Placeholder" },
-    { "name": "Champ Kind", "img": "Placeholder" },
-    { "name": "Ed Harken", "img": "Placeholder" },
-    { "name": "Frank Vitchard", "img": "Placeholder" },
-    { "name": "Wes Mantooth", "img": "Placeholder" },
-    { "name": "Arturo Mendes", "img": "Placeholder" },
-    { "name": "Garth Holliday", "img": "Placeholder" },
-    { "name": "Tino", "img": "Placeholder" },
-    { "name": "Linda Jackson", "img": "Placeholder" },
-    { "name": "Freddy Shapp", "img": "Placeholder" }
+    { "name": "Ron Burgundy", "img": "https://static.wikia.nocookie.net/anchorman/images/1/10/Ron_burgundy.jpg/revision/latest/scale-to-width-down/200?cb=20120329160125" },
+    { "name": "Veronica Corningstone", "img": "https://static.wikia.nocookie.net/anchorman/images/e/ec/Veronica-corningstone1.jpg/revision/latest?cb=20120329161624" },
+    { "name": "Brian Fantana", "img": "https://static.wikia.nocookie.net/anchorman/images/e/ec/Brian-fantana.jpg/revision/latest/scale-to-width-down/200?cb=20120329161812" },
+    { "name": "Brick Tamland", "img": "https://static.wikia.nocookie.net/anchorman/images/0/0c/Brick-tamland-39895.jpg/revision/latest/scale-to-width-down/200?cb=20120329162028" },
+    { "name": "Champ Kind", "img": "https://static.wikia.nocookie.net/anchorman/images/5/5d/207424718_m.jpg/revision/latest?cb=20120329161927" },
+    { "name": "Ed Harken", "img": "https://static.wikia.nocookie.net/anchorman/images/a/a9/Ed.jpg/revision/latest/scale-to-width-down/220?cb=20181108213952" },
+    { "name": "Frank Vitchard", "img": "https://static.wikia.nocookie.net/anchorman/images/4/4f/Luke-anchorman.jpg/revision/latest?cb=20190910163250" },
+    { "name": "Wes Mantooth", "img": "https://static.wikia.nocookie.net/anchorman/images/5/55/Wes.jpg/revision/latest/scale-to-width-down/220?cb=20181108213559" },
+    { "name": "Arturo Mendes", "img": "https://assets.mycast.io/characters/arturo-mendez-9406-normal.jpg?1565808321" },
+    { "name": "Garth Holliday", "img": "https://static.wikia.nocookie.net/anchorman/images/b/b8/Garth.jpg/revision/latest?cb=20181108213918" }
   ]
 }
