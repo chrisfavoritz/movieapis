@@ -1,21 +1,21 @@
 {
   "items": [
-    { "name": "Vito Corleone", "img": "Placeholder" },
-    { "name": "Michael Corleone", "img": "Placeholder" },
-    { "name": "Sonny Corleone", "img": "Placeholder" },
-    { "name": "Fredo Corleone", "img": "Placeholder" },
-    { "name": "Tom Hagen", "img": "Placeholder" },
-    { "name": "Kay Adams", "img": "Placeholder" },
-    { "name": "Clemenza", "img": "Placeholder" },
-    { "name": "Tessio", "img": "Placeholder" },
-    { "name": "Connie Corleone", "img": "Placeholder" },
-    { "name": "Johnny Fontane", "img": "Placeholder" },
-    { "name": "Luca Brasi", "img": "Placeholder" },
-    { "name": "Apollonia Vitelli-Corleone", "img": "Placeholder" },
-    { "name": "Frank Pentangeli", "img": "Placeholder" },
-    { "name": "Hyman Roth", "img": "Placeholder" },
-    { "name": "Moe Greene", "img": "Placeholder" },
-    { "name": "Don Barzini", "img": "Placeholder" },
-    { "name": "Carlo Rizzi", "img": "Placeholder" }
+    { "name": "Vito Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/4/40/Don_Vito_Corleone.jpg/revision/latest?cb=20130324224405" },
+    { "name": "Michael Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/a/aa/Michael_Corleone_Part_I.jpg/revision/latest?cb=20190828200514" },
+    { "name": "Sonny Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/8/8e/Sonny_Corleone.jpg/revision/latest?cb=20130621200426" },
+    { "name": "Fredo Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/8/80/Fredo_Corleone.png/revision/latest?cb=20110108174842" },
+    { "name": "Tom Hagen", "img": "https://static.wikia.nocookie.net/godfather/images/f/f4/Tom_hagen1.jpg/revision/latest?cb=20190829214708" },
+    { "name": "Kay Adams", "img": "https://static.wikia.nocookie.net/godfather/images/e/ea/Kay_Adams.jpg/revision/latest?cb=20120911104936" },
+    { "name": "Peter Clemenza", "img": "https://static.wikia.nocookie.net/godfather/images/f/f9/Peter_Clemenza.jpg/revision/latest?cb=20110118173723" },
+    { "name": "Salvatore Tessio", "img": "https://static.wikia.nocookie.net/godfather/images/5/5c/Salvatore_Tessio.jpg/revision/latest?cb=20131120122100" },
+    { "name": "Connie Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/4/46/Connie_Corleone.jpg/revision/latest?cb=20150526130845" },
+    { "name": "Johnny Fontane", "img": "https://static.wikia.nocookie.net/godfather/images/d/dd/Vlcsnap-2010-02-24-19h01m42s28.png/revision/latest/scale-to-width-down/1000?cb=20170805132202" },
+    { "name": "Luca Brasi", "img": "https://static.wikia.nocookie.net/godfather/images/2/2c/Luca_Brasi.png/revision/latest?cb=20131019132456" },
+    { "name": "Apollonia Vitelli-Corleone", "img": "https://static.wikia.nocookie.net/godfather/images/1/17/Apollonia_vitelli.jpg/revision/latest?cb=20190801013227" },
+    { "name": "Frank Pentangeli", "img": "https://static.wikia.nocookie.net/godfather/images/f/fc/Frank_Pentangeli.jpg/revision/latest?cb=20130318205448" },
+    { "name": "Hyman Roth", "img": "https://static.wikia.nocookie.net/godfather/images/b/bc/Hyman_Roth.jpg/revision/latest?cb=20160410191517" },
+    { "name": "Moe Greene", "img": "https://static.wikia.nocookie.net/godfather/images/f/f1/Vlcsnap-2011-01-05-17h40m41s195.png/revision/latest/scale-to-width-down/1000?cb=20170805132553" },
+    { "name": "Don Barzini", "img": "https://static.wikia.nocookie.net/godfather/images/1/1c/Vlcsnap-2010-02-24-17h26m09s80.png/revision/latest/scale-to-width-down/350?cb=20170805130153" },
+    { "name": "Carlo Rizzi", "img": "https://static.wikia.nocookie.net/godfather/images/b/be/Vlcsnap-2010-12-30-21h53m01s128.png/revision/latest/scale-to-width-down/1000?cb=20170805133037" }
   ]
 }
