@@ -1,14 +1,15 @@
 {
   "items": [
-    { "name": "The Fast and the Furious (2001)", "img": "Placeholder" },
-    { "name": "2 Fast 2 Furious (2003)", "img": "Placeholder" },
-    { "name": "The Fast and the Furious: Tokyo Drift (2006)", "img": "Placeholder" },
-    { "name": "Fast & Furious (2009)", "img": "Placeholder" },
-    { "name": "Fast Five (2011)", "img": "Placeholder" },
-    { "name": "Fast & Furious 6 (2013)", "img": "Placeholder" },
-    { "name": "Furious 7 (2015)", "img": "Placeholder" },
-    { "name": "The Fate of the Furious (2017)", "img": "Placeholder" },
-    { "name": "Fast & Furious Presents: Hobbs & Shaw (2019)", "img": "Placeholder" },
-    { "name": "F9: The Fast Saga (2021)", "img": "Placeholder" }
+    { "name": "The Fast and the Furious (2001)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/8/87/Fast_One_Poster.jpg/revision/latest?cb=20200205060103" },
+    { "name": "2 Fast 2 Furious (2003)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/0/03/2_Fast_Poster.jpg/revision/latest?cb=20200323094335" },
+    { "name": "The Fast and the Furious: Tokyo Drift (2006)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/7/79/Tokyo_Drift.jpg/revision/latest/scale-to-width-down/1000?cb=20191225170958" },
+    { "name": "Fast & Furious (2009)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/b/bc/Fast_Four_Poster.jpg/revision/latest?cb=20200323093212" },
+    { "name": "Fast Five (2011)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/e/ed/Fast_Five_Poster.jpg/revision/latest?cb=20200323092932" },
+    { "name": "Fast & Furious 6 (2013)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/d/d3/Furious_6.jpg/revision/latest?cb=20200323092657" },
+    { "name": "Furious 7 (2015)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/a/aa/FF7_officialposter.jpg/revision/latest/scale-to-width-down/1000?cb=20200323092117" },
+    { "name": "The Fate of the Furious (2017)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/e/ef/The_Fate_of_the_Furious_theatrical_poster.jpeg/revision/latest/scale-to-width-down/1000?cb=20201018233543" },
+    { "name": "Fast & Furious Presents: Hobbs & Shaw (2019)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/a/af/Hobbs_%26_Shaw_poster_9.jpg/revision/latest/scale-to-width-down/1000?cb=20190719181725" },
+    { "name": "F9: The Fast Saga (2021)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/a/a1/F9_June_25_2021_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20210414173631" },
+    { "name": "Fast X (2023)", "img": "https://static.wikia.nocookie.net/fastandfurious/images/d/da/Fast_X_Theatrical_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20230314161114" }
   ]
 }
