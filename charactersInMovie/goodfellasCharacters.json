@@ -1,21 +1,14 @@
 {
   "items": [
-    { "name": "Henry Hill", "img": "Placeholder" },
-    { "name": "Jimmy Conway", "img": "Placeholder" },
-    { "name": "Tommy DeVito", "img": "Placeholder" },
-    { "name": "Karen Hill", "img": "Placeholder" },
-    { "name": "Paul Cicero", "img": "Placeholder" },
-    { "name": "Billy Batts", "img": "Placeholder" },
-    { "name": "Morrie Kessler", "img": "Placeholder" },
-    { "name": "Stacks Edwards", "img": "Placeholder" },
-    { "name": "Frankie Carbone", "img": "Placeholder" },
-    { "name": "Tuddy Cicero", "img": "Placeholder" },
-    { "name": "Spider", "img": "Placeholder" },
-    { "name": "Sonny Bunz", "img": "Placeholder" },
-    { "name": "Sandy", "img": "Placeholder" },
-    { "name": "Tuddy's Wife", "img": "Placeholder" },
-    { "name": "Henry's Father", "img": "Placeholder" },
-    { "name": "Tommy's Mother", "img": "Placeholder" },
-    { "name": "Maury", "img": "Placeholder" }
+    { "name": "Henry Hill", "img": "https://static.wikia.nocookie.net/p__/images/6/64/RayLiottaHenryHill.jpeg/revision/latest?cb=20171209211416&path-prefix=protagonist" },
+    { "name": "Jimmy Conway", "img": "https://static.wikia.nocookie.net/villains/images/c/c5/Jimmycon.jpg/revision/latest?cb=20230110120632" },
+    { "name": "Tommy DeVito", "img": "https://static.wikia.nocookie.net/villains/images/5/58/E0014c229a10ead58328aee08afb6ab3--supporting-actor-gangsters.jpg/revision/latest?cb=20170731154224" },
+    { "name": "Karen Hill", "img": "https://static.wikia.nocookie.net/heroesvillains/images/6/69/Karen_Hill.jpg/revision/latest/scale-to-width-down/1200?cb=20170708121854" },
+    { "name": "Paul Cicero", "img": "https://static.wikia.nocookie.net/villains/images/a/a8/PaulieCiceroGoodfellas.webp/revision/latest?cb=20231022172635" },
+    { "name": "Billy Batts", "img": "https://static.wikia.nocookie.net/villains/images/6/66/1990-goodfellas-billy-bates-frank-vincent.jpg/revision/latest?cb=20210305162503" },
+    { "name": "Morrie Kessler", "img": "https://static.wikia.nocookie.net/totalwar-ar/images/3/38/Morrie_Kessler.png/revision/latest?cb=20171220222203" },
+    { "name": "Stacks Edwards", "img": "https://static.wikia.nocookie.net/godfather-fanon/images/2/25/Stacks_Edwards.png/revision/latest?cb=20121115210357" },
+    { "name": "Frankie Carbone", "img": "https://static.wikia.nocookie.net/totalwar-ar/images/0/07/Frankie_Carbone.png/revision/latest?cb=20171220200732" },
+    { "name": "Tuddy Cicero", "img": "https://static.wikia.nocookie.net/totalwar-ar/images/2/22/Tuddy_Cicero.png/revision/latest?cb=20171220180114" }
   ]
 }
