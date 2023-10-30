@@ -1,15 +1,16 @@
 {
   "items": [
-    { "name": "Star Wars: Episode IV - A New Hope (1977)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode V - The Empire Strikes Back (1980)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode VI - Return of the Jedi (1983)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode I - The Phantom Menace (1999)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode II - Attack of the Clones (2002)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode III - Revenge of the Sith (2005)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode VII - The Force Awakens (2015)", "img": "Placeholder" },
-    { "name": "Rogue One: A Star Wars Story (2016)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode VIII - The Last Jedi (2017)", "img": "Placeholder" },
-    { "name": "Solo: A Star Wars Story (2018)", "img": "Placeholder" },
-    { "name": "Star Wars: Episode IX - The Rise of Skywalker (2019)", "img": "Placeholder" }
+    { "name": "Star Wars: Episode IV - A New Hope (1977)", "img": "https://static.wikia.nocookie.net/starwars/images/0/06/Star_Wars_Style_A_poster_1977.jpg/revision/latest/scale-to-width-down/1000?cb=20100708051712" },
+    { "name": "Star Wars: Episode V - The Empire Strikes Back (1980)", "img": "https://static.wikia.nocookie.net/starwars/images/e/e4/Empire_strikes_back_old.jpg/revision/latest?cb=20161114072554" },
+    { "name": "Star Wars: Episode VI - Return of the Jedi (1983)", "img": "https://static.wikia.nocookie.net/starwars/images/b/b2/ReturnOfTheJediPoster1983.jpg/revision/latest?cb=20170926193831" },
+    { "name": "Star Wars: Episode I - The Phantom Menace (1999)", "img": "https://static.wikia.nocookie.net/starwars/images/7/75/EPI_TPM_poster.png/revision/latest/scale-to-width-down/1000?cb=20130822171446" },
+    { "name": "Star Wars: Episode II - Attack of the Clones (2002)", "img": "https://static.wikia.nocookie.net/starwars/images/d/dd/Attack-Clones-Poster.jpg/revision/latest?cb=20180318125654" },
+    { "name": "Star Wars: Episode III - Revenge of the Sith (2005)", "img": "https://static.wikia.nocookie.net/starwars/images/e/e7/EPIII_RotS_poster.png/revision/latest?cb=20130822174232" },
+    { "name": "Star Wars: The Clone Wars (2008)", "img": "https://static.wikia.nocookie.net/starwars/images/f/ff/The_Clone_Wars_film_poster.jpg/revision/latest/scale-to-width-down/1000?cb=20090916003358" },
+    { "name": "Star Wars: Episode VII - The Force Awakens (2015)", "img": "https://static.wikia.nocookie.net/starwars/images/f/fd/Star_Wars_Episode_VII_The_Force_Awakens.jpg/revision/latest/scale-to-width-down/1000?cb=20151018162823" },
+    { "name": "Rogue One: A Star Wars Story (2016)", "img": "https://static.wikia.nocookie.net/starwars/images/5/59/RogueOne-AStarWarsStory-Theatricalposter.png/revision/latest/scale-to-width-down/1000?cb=20161012214043" },
+    { "name": "Star Wars: Episode VIII - The Last Jedi (2017)", "img": "https://static.wikia.nocookie.net/starwars/images/1/12/TheLastJediTheatricalPoster.jpg/revision/latest/scale-to-width-down/1000?cb=20171010002420" },
+    { "name": "Solo: A Star Wars Story (2018)", "img": "https://static.wikia.nocookie.net/starwars/images/a/a9/Solo_A_Star_Wars_Story_Theatrical_Poster.png/revision/latest?cb=20180409011120" },
+    { "name": "Star Wars: Episode IX - The Rise of Skywalker (2019)", "img": "https://static.wikia.nocookie.net/starwars/images/4/4c/TROSOneSheet.jpg/revision/latest?cb=20191022091806" }
   ]
 }
