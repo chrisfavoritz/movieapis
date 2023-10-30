@@ -1,25 +1,10 @@
 {
   "items": [
-    { "name": "Forrest Gump", "img": "Placeholder" },
-    { "name": "Jenny Curran", "img": "Placeholder" },
-    { "name": "Lieutenant Dan Taylor", "img": "Placeholder" },
-    { "name": "Bubba Blue", "img": "Placeholder" },
-    { "name": "Mama (Mrs. Gump)", "img": "Placeholder" },
-    { "name": "Young Forrest Gump", "img": "Placeholder" },
-    { "name": "Young Jenny Curran", "img": "Placeholder" },
-    { "name": "Young Lieutenant Dan Taylor", "img": "Placeholder" },
-    { "name": "Principal Hancock", "img": "Placeholder" },
-    { "name": "Coach Bryant", "img": "Placeholder" },
-    { "name": "President Richard Nixon", "img": "Placeholder" },
-    { "name": "George Wallace", "img": "Placeholder" },
-    { "name": "Lyndon B. Johnson", "img": "Placeholder" },
-    { "name": "Young Forrest Gump Jr.", "img": "Placeholder" },
-    { "name": "Eldon", "img": "Placeholder" },
-    { "name": "Bubba's Mother", "img": "Placeholder" },
-    { "name": "Drill Sergeant", "img": "Placeholder" },
-    { "name": "Benjamin Buford 'Bubba' Blue Jr.", "img": "Placeholder" },
-    { "name": "Mrs. Blue (Bubba's Mother)", "img": "Placeholder" },
-    { "name": "Jenny's Father", "img": "Placeholder" },
-    { "name": "Jenny's Grandmother", "img": "Placeholder" }
-  ]
+    { "name": "Forrest Gump", "img": "https://static.wikia.nocookie.net/f__/images/3/34/Forrest-Gump.jpg/revision/latest?cb=20180103035647&path-prefix=forrestgump" },
+    { "name": "Jenny Curran", "img": "https://static.wikia.nocookie.net/f__/images/1/11/Jenny-Curran.png/revision/latest?cb=20180103041308&path-prefix=forrestgump" },
+    { "name": "Lieutenant Dan Taylor", "img": "https://static.wikia.nocookie.net/f__/images/6/6c/GarySiniseDanTaylorForrestGump94.jpg/revision/latest?cb=20120214021725&path-prefix=forrestgump" },
+    { "name": "Bubba Blue", "img": "https://static.wikia.nocookie.net/f__/images/f/f9/Bubba-02.jpg/revision/latest?cb=20170902202904&path-prefix=forrestgump" },
+    { "name": "Mama (Mrs. Gump)", "img": "https://static.wikia.nocookie.net/f__/images/f/fa/Mrs-Gump-forrest-gump.jpg/revision/latest?cb=20110727022645&path-prefix=forrestgump" },
+    { "name": "Principal Hancock", "img": "https://static.wikia.nocookie.net/f__/images/6/6f/Forrest_gump.gif/revision/latest?cb=20120802015835&path-prefix=forrestgump" },
+    { "name": "Young Forrest Gump Jr.", "img": "https://static.wikia.nocookie.net/f__/images/5/5f/Forrest_Gump_Jr.gif/revision/latest?cb=20120511142119&path-prefix=forrestgump" }
 }
