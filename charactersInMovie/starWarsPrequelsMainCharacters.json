@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Anakin Skywalker", "img": "https://static.wikia.nocookie.net/p__/images/5/59/Anakin-skywalker-png-4.png/revision/latest?cb=20200412233645&path-prefix=protagonist" },
+    { "name": "Padmé Amidala", "img": "https://static.wikia.nocookie.net/p__/images/1/14/Pngkit_finn-star-wars-png_5818383.png/revision/latest?cb=20200413163718&path-prefix=protagonist" },
+    { "name": "Obi-Wan Kenobi", "img": "https://static.wikia.nocookie.net/thestarwarscanon/images/0/0f/Obi-Wan_Kenobi.png/revision/latest?cb=20200528020209" },
+    { "name": "Qui-Gon Jinn", "img": "https://static.wikia.nocookie.net/pure-good-wiki/images/a/ad/Qui-Gon_Jinn.png/revision/latest?cb=20201122170235" },
+    { "name": "Mace Windu", "img": "https://static.wikia.nocookie.net/starwars/images/2/27/MaceWindu_-WoSW.png/revision/latest?cb=20220914013358" },
+    { "name": "Emperor Palpatine / Darth Sidious", "img": "https://static.wikia.nocookie.net/starwars/images/c/c0/ChancellorPalpatine-ToppsFinest2019.png/revision/latest?cb=20221001223725" },
+    { "name": "Count Dooku / Darth Tyranus", "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Count_Dooku_%28Christopher_Lee%29.png" },
+    { "name": "Yoda", "img": "https://static.wikia.nocookie.net/p__/images/5/5f/Yoda.png/revision/latest/thumbnail/width/360/height/360?cb=20150617205408&path-prefix=protagonist" },
+    { "name": "Darth Maul", "img": "https://static.wikia.nocookie.net/villains/images/e/e4/Darth-Maul.png/revision/latest/thumbnail/width/360/height/360?cb=20190813011147" },
+    { "name": "Jar Jar Binks", "img": "https://static.wikia.nocookie.net/starwars/images/0/02/Jar_Jar_SWSB.png/revision/latest/thumbnail/width/360/height/360?cb=20160910034613" }
+  ]
+}
