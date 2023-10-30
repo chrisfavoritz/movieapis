@@ -1,13 +1,14 @@
 {
   "items": [
-    { "name": "Seth", "img": "Placeholder" },
-    { "name": "Evan", "img": "Placeholder" },
-    { "name": "Fogell / McLovin", "img": "Placeholder" },
-    { "name": "Officer Slater", "img": "Placeholder" },
-    { "name": "Officer Michaels", "img": "Placeholder" },
-    { "name": "Jules", "img": "Placeholder" },
-    { "name": "Becca", "img": "Placeholder" },
-    { "name": "Greg", "img": "Placeholder" },
-    { "name": "Homeless Guy", "img": "Placeholder" }
+    { "name": "Seth", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/16/asset/buzzfeed-prod-fastlane-02/sub-buzz-23791-1483650842-8.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Evan", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/16/asset/buzzfeed-prod-fastlane-02/sub-buzz-25137-1483653049-13.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Fogell / McLovin", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/17/asset/buzzfeed-prod-fastlane-02/sub-buzz-25929-1483654331-3.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Officer Slater", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/18/asset/buzzfeed-prod-fastlane-02/sub-buzz-29302-1483660564-12.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Officer Michaels", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/19/asset/buzzfeed-prod-fastlane-02/sub-buzz-30210-1483662570-2.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Jules", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/17/asset/buzzfeed-prod-fastlane-03/sub-buzz-24921-1483656704-1.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Becca", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/18/asset/buzzfeed-prod-fastlane-01/sub-buzz-23985-1483658385-8.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Greg", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/20/asset/buzzfeed-prod-fastlane-03/sub-buzz-29277-1483666837-9.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Mindy", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/20/asset/buzzfeed-prod-fastlane-01/sub-buzz-26792-1483665028-4.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" },
+    { "name": "Francis", "img": "https://img.buzzfeed.com/buzzfeed-static/static/2017-01/5/19/asset/buzzfeed-prod-fastlane-03/sub-buzz-28018-1483663862-13.jpg?crop=300%3A415%3B0%2C0&downsize=1200:*&output-format=auto&output-quality=auto" }
   ]
 }
