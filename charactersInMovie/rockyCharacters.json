@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Rocky Balboa", "img": "https://static.wikia.nocookie.net/rocky/images/2/2a/Sylvester-Stallone-Rocky-II-Color-8x10-Photo.webp/revision/latest?cb=20230312042355" },
+    { "name": "Adrian Balboa", "img": "https://static.wikia.nocookie.net/rocky/images/7/79/437d3704fa3c4ec72c07a9e5cf1f435f.jpg/revision/latest?cb=20230312045647" },
+    { "name": "Apollo Creed", "img": "https://static.wikia.nocookie.net/rocky/images/b/b3/Apollo-creed-profile.jpg/revision/latest?cb=20181001224128" },
+    { "name": "Mickey Goldmill", "img": "https://static.wikia.nocookie.net/rocky/images/5/54/Micky.png/revision/latest?cb=20070601031857" },
+    { "name": "Paulie Pennino", "img": "https://static.wikia.nocookie.net/rocky/images/0/0b/Paulei1976.jpg/revision/latest?cb=20230312050217" },
+    { "name": "Ivan Drago", "img": "https://static.wikia.nocookie.net/rocky/images/5/5c/Capture-0.PNG/revision/latest?cb=20181007110924" },
+    { "name": "Clubber Lang", "img": "https://static.wikia.nocookie.net/rocky/images/d/d6/Screen_Shot_2018-10-02_at_8.08.50_AM.png/revision/latest/scale-to-width-down/1000?cb=20181001221001" },
+    { "name": "Tommy Gunn", "img": "https://static.wikia.nocookie.net/rocky/images/5/54/Tommy-morrison-tommy-machine-gunn_1_e901cf0fda5997f5f99273210a811f3a.jpg/revision/latest?cb=20181203151236" },
+    { "name": "Tony 'Duke' Evers", "img": "https://static.wikia.nocookie.net/rocky/images/9/91/Duke.PNG/revision/latest?cb=20181204021721" },
+    { "name": "Thunderlips", "img": "https://static.wikia.nocookie.net/rocky/images/5/55/Thunderclips.png/revision/latest?cb=20070531041449" }
+  ]
+}
