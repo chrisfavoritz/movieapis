@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Darth Vader", "img": "https://static.wikia.nocookie.net/villains/images/0/0f/Darthvader3.png/revision/latest?cb=20190301163736" },
+    { "name": "Emperor Palpatine", "img": "https://static.wikia.nocookie.net/starwars/images/a/a3/Emperor_Palpatine_GA.png/revision/latest?cb=20170503060153" },
+    { "name": "Boba Fett", "img": "https://static.wikia.nocookie.net/deathbattlefanon/images/d/d1/Star_wars_battlefront_boba_fett_render_by_zero0kiryu-d9gey84.png/revision/latest?cb=20180521221146" },
+    { "name": "Jabba the Hutt", "img": "https://static.wikia.nocookie.net/starwars/images/f/fe/Jabba_MMSWCA.png/revision/latest/thumbnail/width/360/height/360?cb=20230718014251" },
+    { "name": "Count Dooku / Darth Tyranus", "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Count_Dooku_%28Christopher_Lee%29.png" },
+    { "name": "Darth Maul", "img": "https://static.wikia.nocookie.net/villains/images/e/e4/Darth-Maul.png/revision/latest/thumbnail/width/360/height/360?cb=20190813011147" },
+    { "name": "Kylo Ren / Ben Solo", "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Kylo_Ren.png" },
+    { "name": "General Hux", "img": "https://static.wikia.nocookie.net/villains/images/8/81/Hux-0.png/revision/latest?cb=20160904211325" },
+    { "name": "Supreme Leader Snoke", "img": "https://static.wikia.nocookie.net/villains/images/0/02/Snoke_cropped.png/revision/latest/scale-to-width-down/1200?cb=20220830122317" },
+    { "name": "Captain Phasma", "img": "https://static.wikia.nocookie.net/villains/images/c/c9/Phasma_Transparent.png/revision/latest?cb=20220617185702" },
+    { "name": "Allegiant General Pryde", "img": "https://static.wikia.nocookie.net/starwars/images/0/0b/AllegiantGeneralPryde-BTCG.png/revision/latest?cb=20220314042200" }
+  ]
+}
