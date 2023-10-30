@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Katniss Everdeen", "img": "https://static.wikia.nocookie.net/thehungergames/images/d/da/KatnissD13Portrait.jpg/revision/latest?cb=20190306042858" },
+    { "name": "Peeta Mellark", "img": "https://static.wikia.nocookie.net/thehungergames/images/a/a2/Thgcf-variety_peeta.jpg/revision/latest?cb=20131029164326" },
+    { "name": "Gale Hawthorne", "img": "https://static.wikia.nocookie.net/thehungergames/images/d/d6/GaleD13Portrait.jpg/revision/latest/scale-to-width-down/281?cb=20190306042858" },
+    { "name": "President Snow", "img": "https://static.wikia.nocookie.net/thehungergames/images/b/b7/Thg-mockingjay-presidentsnow.jpg/revision/latest?cb=20140929223105" },
+    { "name": "Haymitch Abernathy", "img": "https://static.wikia.nocookie.net/thehungergames/images/a/ad/Haymitchhge.jpg/revision/latest?cb=20130909215715" },
+    { "name": "Effie Trinket", "img": "https://static.wikia.nocookie.net/thehungergames/images/7/7c/EffieD13Portrait.jpg/revision/latest?cb=20190306042857" },
+    { "name": "Cinna", "img": "https://static.wikia.nocookie.net/thehungergames/images/7/79/Cinna.jpg/revision/latest/scale-to-width-down/1000?cb=20130306001028" },
+    { "name": "Primrose 'Prim' Everdeen", "img": "https://static.wikia.nocookie.net/thehungergames/images/9/93/PrimroseD13Portrait.jpg/revision/latest/scale-to-width-down/281?cb=20190306042858" }
+  ]
+}
