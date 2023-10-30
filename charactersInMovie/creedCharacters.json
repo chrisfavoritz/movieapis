@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Adonis Creed", "img": "https://static.wikia.nocookie.net/rocky/images/b/b0/AdonisCreedPosterInfoboxTemplate.png/revision/latest/scale-to-width-down/1000?cb=20230309130348" },
+    { "name": "Damian Anderson", "img": "https://static.wikia.nocookie.net/rocky/images/a/a4/DamianAndersonPosterInfoboxTemplate.png/revision/latest/scale-to-width-down/1000?cb=20230309122710" },
+    { "name": "Rocky Balboa", "img": "https://static.wikia.nocookie.net/rocky/images/a/ad/Creed-ii.jpg/revision/latest/scale-to-width-down/1000?cb=20230312043830" },
+    { "name": "Ivan Drago", "img": "https://static.wikia.nocookie.net/rocky/images/f/f7/Ivandragoold.PNG/revision/latest/scale-to-width-down/309?cb=20181130182757" },
+    { "name": "Bianca Taylor", "img": "https://static.wikia.nocookie.net/rocky/images/0/0f/MCDCREE_EC099.webp/revision/latest/scale-to-width-down/1000?cb=20230320053813" },
+    { "name": "Mary Anne Creed", "img": "https://static.wikia.nocookie.net/rocky/images/b/be/Phylicia-Rashad-plays-Mary-Anne-Creed-c63acab.jpg/revision/latest?cb=20230322180051" },
+    { "name": "Ricky Conlan", "img": "https://static.wikia.nocookie.net/rocky/images/6/60/Conlan3.PNG/revision/latest/scale-to-width-down/1000?cb=20181217143027" },
+    { "name": "Tony 'Little Duke' Evers", "img": "https://static.wikia.nocookie.net/rocky/images/d/d4/MV5BY2YxZTZlZjUtYjEwNC00MmRmLTlkMWMtZjNlOWIyYzg2ODEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc%40._V1_SY381_SX474_AL_.jpg/revision/latest?cb=20170311040150" },
+    { "name": "Danny 'Stuntman' Wheeler", "img": "https://static.wikia.nocookie.net/rocky/images/7/77/Wheeler_creed_warner_bros.jpg/revision/latest/scale-to-width-down/1000?cb=20151206200040" },
+    { "name": "Viktor Drago", "img": "https://static.wikia.nocookie.net/rocky/images/a/af/Viktordrago.PNG/revision/latest?cb=20181110005844" }
+  ]
+}
