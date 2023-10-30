@@ -1,20 +1,19 @@
 {
   "items": [
-    { "name": "Bruce Wayne / Batman", "img": "Placeholder" },
-    { "name": "Alfred Pennyworth", "img": "Placeholder" },
-    { "name": "James Gordon", "img": "Placeholder" },
-    { "name": "Ra's al Ghul", "img": "Placeholder" },
-    { "name": "Ducard", "img": "Placeholder" },
-    { "name": "Lucius Fox", "img": "Placeholder" },
-    { "name": "Rachel Dawes", "img": "Placeholder" },
-    { "name": "Jonathan Crane / Scarecrow", "img": "Placeholder" },
-    { "name": "Harvey Dent / Two-Face", "img": "Placeholder" },
-    { "name": "The Joker", "img": "Placeholder" },
-    { "name": "Lau", "img": "Placeholder" },
-    { "name": "Coleman Reese", "img": "Placeholder" },
-    { "name": "Selina Kyle / Catwoman", "img": "Placeholder" },
-    { "name": "Bane", "img": "Placeholder" },
-    { "name": "John Blake", "img": "Placeholder" },
-    { "name": "Miranda Tate / Talia al Ghul", "img": "Placeholder" }
+    { "name": "Bruce Wayne / Batman", "img": "https://static.wikia.nocookie.net/batman/images/8/8f/Christian_Bale_as_The_Dark_Knight.jpg/revision/latest?cb=20210312234853" },
+    { "name": "Alfred Pennyworth", "img": "https://static.wikia.nocookie.net/batman/images/e/ec/BD-3487.jpg/revision/latest?cb=20080418033124" },
+    { "name": "James Gordon", "img": "https://static.wikia.nocookie.net/batman/images/c/ca/Batman_photos_oldman.jpg/revision/latest?cb=20080321214518" },
+    { "name": "Ra's al Ghul", "img": "https://static.wikia.nocookie.net/batman/images/b/b3/Ra%27s_al_Ghul_%28Liam_Neeson%29.jpg/revision/latest?cb=20120118235704" },
+    { "name": "Lucius Fox", "img": "https://static.wikia.nocookie.net/batman/images/5/5e/TDKR_Lucius_Fox.jpg/revision/latest/scale-to-width-down/1000?cb=20120719141240" },
+    { "name": "Rachel Dawes", "img": "https://static.wikia.nocookie.net/batman/images/a/a7/Rachel_in_court.jpg/revision/latest/scale-to-width-down/1000?cb=20210219222810" },
+    { "name": "Jonathan Crane / Scarecrow", "img": "https://static.wikia.nocookie.net/batman/images/7/7b/32322-scarecrow_400.jpg/revision/latest?cb=20080329035709" },
+    { "name": "Harvey Dent / Two-Face", "img": "https://static.wikia.nocookie.net/batman/images/8/88/2face.png/revision/latest?cb=20110918014039" },
+    { "name": "The Joker", "img": "https://static.wikia.nocookie.net/batman/images/f/f9/Heath_Ledger_as_the_Joker.JPG/revision/latest/scale-to-width-down/1000?cb=20211006123111" },
+    { "name": "Lau", "img": "https://static.wikia.nocookie.net/batman/images/a/aa/Lau.jpg/revision/latest?cb=20081216035937" },
+    { "name": "Coleman Reese", "img": "https://static.wikia.nocookie.net/batman/images/e/e1/Coleman_Reese.JPG/revision/latest?cb=20090113180231" },
+    { "name": "Selina Kyle / The Cat", "img": "https://static.wikia.nocookie.net/batman/images/e/e7/TDKRCatwoman.jpg/revision/latest?cb=20120524143750" },
+    { "name": "Bane", "img": "https://static.wikia.nocookie.net/batman/images/f/f0/Bane_TDKR3.jpg/revision/latest?cb=20120511112335" },
+    { "name": "John Blake", "img": "https://static.wikia.nocookie.net/batman/images/5/5e/John_Blake-1.jpg/revision/latest/scale-to-width-down/1000?cb=20120523083910" },
+    { "name": "Miranda Tate / Talia al Ghul", "img": "https://static.wikia.nocookie.net/batman/images/9/9c/Tdkr_taliaalghul.jpg/revision/latest/scale-to-width-down/1000?cb=20130320215629" }
   ]
 }
