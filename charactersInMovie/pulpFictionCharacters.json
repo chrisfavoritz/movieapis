@@ -1,19 +1,19 @@
 {
   "items": [
-    { "name": "Jules Winnfield", "img": "Placeholder" },
-    { "name": "Vincent Vega", "img": "Placeholder" },
-    { "name": "Mia Wallace", "img": "Placeholder" },
-    { "name": "Butch Coolidge", "img": "Placeholder" },
-    { "name": "Marcellus Wallace", "img": "Placeholder" },
-    { "name": "Pumpkin / Ringo", "img": "Placeholder" },
-    { "name": "Honey Bunny / Yolanda", "img": "Placeholder" },
-    { "name": "Winston 'The Wolf' Wolfe", "img": "Placeholder" },
-    { "name": "Captain Koons", "img": "Placeholder" },
-    { "name": "Lance", "img": "Placeholder" },
-    { "name": "Jody", "img": "Placeholder" },
-    { "name": "Fabienne", "img": "Placeholder" },
-    { "name": "Jimmie", "img": "Placeholder" },
-    { "name": "Zed", "img": "Placeholder" },
-    { "name": "The Gimp", "img": "Placeholder" }
+    { "name": "Jules Winnfield", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/0/00/99409e.jpg/revision/latest?cb=20180122000605" },
+    { "name": "Vincent Vega", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/3/30/Hgtyf1.jpg/revision/latest?cb=20180120180145" },
+    { "name": "Mia Wallace", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/7/75/Kaw11.jpg/revision/latest/scale-to-width-down/1000?cb=20180122103004" },
+    { "name": "Butch Coolidge", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/b/b2/Isg124.jpg/revision/latest?cb=20180225152329" },
+    { "name": "Marsellus Wallace", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/1/1e/B9o8tDkIgAA4BoD.jpg/revision/latest?cb=20180122104521" },
+    { "name": "Pumpkin / Ringo", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/9/9f/Pulp_fiction_tim_roth_by_vonnbriggs-d72ffb0.jpg/revision/latest?cb=20180122121000" },
+    { "name": "Honey Bunny / Yolanda", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/e/e8/Amanda-WM.jpg/revision/latest?cb=20180122120405" },
+    { "name": "Winston Wolf", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/3/39/3454-fiction-wolf.jpg/revision/latest?cb=20180122105136" },
+    { "name": "Captain Koons", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/f/f1/Eb2.jpg/revision/latest?cb=20180122115645" },
+    { "name": "Lance", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/e/ee/B72ecdff-6b15-45cd-8298-c28146e11555.jpg/revision/latest?cb=20180228212537" },
+    { "name": "Jody", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/1/17/Rosanna_Arquette_3073953k.jpg/revision/latest?cb=20180228213449" },
+    { "name": "Fabienne", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/0/0b/76db52d.jpg/revision/latest?cb=20180122121831" },
+    { "name": "Jimmie", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/0/0a/180d6a4.jpg/revision/latest?cb=20180122115227" },
+    { "name": "Zed", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/e/e5/Maxresdefault.jpg/revision/latest/scale-to-width-down/1000?cb=20180122121305" },
+    { "name": "Maynard", "img": "https://static.wikia.nocookie.net/quentin-tarantino/images/2/2b/Manyard_.jpg/revision/latest?cb=20180215110156" }
   ]
 }
