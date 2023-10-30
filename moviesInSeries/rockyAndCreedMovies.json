@@ -1,12 +1,13 @@
 {
   "items": [
-    { "name": "Rocky (1976)", "img": "Placeholder" },
-    { "name": "Rocky II (1979)", "img": "Placeholder" },
-    { "name": "Rocky III (1982)", "img": "Placeholder" },
-    { "name": "Rocky IV (1985)", "img": "Placeholder" },
-    { "name": "Rocky V (1990)", "img": "Placeholder" },
-    { "name": "Rocky Balboa (2006)", "img": "Placeholder" },
-    { "name": "Creed (2015)", "img": "Placeholder" },
-    { "name": "Creed II (2018)", "img": "Placeholder" }
+    { "name": "Rocky (1976)", "img": "https://static.wikia.nocookie.net/rocky/images/1/18/Rocky_poster.jpg/revision/latest?cb=20120507002451" },
+    { "name": "Rocky II (1979)", "img": "https://static.wikia.nocookie.net/rocky/images/b/bc/Rocky_ii_poster.jpg/revision/latest?cb=20120507002109" },
+    { "name": "Rocky III (1982)", "img": "https://static.wikia.nocookie.net/rocky/images/0/03/220px-Rocky_iii_poster.jpg/revision/latest?cb=20120507001524" },
+    { "name": "Rocky IV (1985)", "img": "https://static.wikia.nocookie.net/rocky/images/9/95/Rocky_IV.jpg/revision/latest?cb=20120507000959" },
+    { "name": "Rocky V (1990)", "img": "https://static.wikia.nocookie.net/rocky/images/a/a5/Rocky_v_poster.jpg/revision/latest?cb=20120507000524" },
+    { "name": "Rocky Balboa (2006)", "img": "https://static.wikia.nocookie.net/rocky/images/0/09/Rocky6.jpg/revision/latest?cb=20110826094829" },
+    { "name": "Creed (2015)", "img": "https://static.wikia.nocookie.net/rocky/images/a/a6/Creed.jpeg/revision/latest?cb=20151127184406" },
+    { "name": "Creed II (2018)", "img": "https://static.wikia.nocookie.net/rocky/images/0/00/Creed_II_poster_5.jpg/revision/latest/scale-to-width-down/1000?cb=20181031034602" },
+    { "name": "Creed III (2023)", "img": "https://static.wikia.nocookie.net/rocky/images/2/28/Creed-3.webp/revision/latest?cb=20230222202841" }
   ]
 }
