@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Luke Skywalker", "img": "https://static.wikia.nocookie.net/thestarwarscanon/images/0/0e/Luke_Skywalker_Render_ROTJ.png/revision/latest?cb=20200111160919" },
+    { "name": "Princess Leia Organa", "img": "https://static.wikia.nocookie.net/p__/images/c/c9/Princess_Leia_Organa.png/revision/latest?cb=20200413162105&path-prefix=protagonist" },
+    { "name": "Obi-Wan Kenobi", "img": "https://static.wikia.nocookie.net/p__/images/b/b1/Ben-Kenobi-Render.webp/revision/latest?cb=20220319012918&path-prefix=protagonist" },
+    { "name": "Yoda", "img": "https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png/revision/latest/thumbnail/width/360/height/360?cb=20130810185858" },
+    { "name": "Anakin Skywalker", "img": "https://static.wikia.nocookie.net/p__/images/5/59/Anakin-skywalker-png-4.png/revision/latest?cb=20200412233645&path-prefix=protagonist" },
+    { "name": "Qui-Gon Jinn", "img": "https://static.wikia.nocookie.net/pure-good-wiki/images/a/ad/Qui-Gon_Jinn.png/revision/latest?cb=20201122170235" },
+    { "name": "Mace Windu", "img": "https://static.wikia.nocookie.net/starwars/images/2/27/MaceWindu_-WoSW.png/revision/latest?cb=20220914013358" },
+    { "name": "Ki-Adi-Mundi", "img": "https://static.wikia.nocookie.net/starwars/images/6/6d/KiAdiMundi-SWCT.png/revision/latest?cb=20200807031541" },
+    { "name": "Aayla Secura", "img": "https://static.wikia.nocookie.net/starwars/images/4/4d/Aayla_Secura_SWE.png/revision/latest?cb=20211226192019" },
+    { "name": "Kit Fisto", "img": "https://static.wikia.nocookie.net/starwars/images/2/25/KitFisto-USWNE.png/revision/latest?cb=20221202063304" },
+    { "name": "Rey", "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/REY.png/revision/latest?cb=20200524052256" }
+  ]
+}
