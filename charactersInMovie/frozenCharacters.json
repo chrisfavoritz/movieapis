@@ -1,20 +1,19 @@
 {
   "items": [
-    { "name": "Elsa", "img": "Placeholder" },
-    { "name": "Anna", "img": "Placeholder" },
-    { "name": "Olaf", "img": "Placeholder" },
-    { "name": "Kristoff", "img": "Placeholder" },
-    { "name": "Sven", "img": "Placeholder" },
-    { "name": "Hans", "img": "Placeholder" },
-    { "name": "Duke of Weselton", "img": "Placeholder" },
-    { "name": "Pabbie (the Troll King)", "img": "Placeholder" },
-    { "name": "Oaken", "img": "Placeholder" },
-    { "name": "Grand Pabbie", "img": "Placeholder" },
-    { "name": "Queen Iduna", "img": "Placeholder" },
-    { "name": "King Agnarr", "img": "Placeholder" },
-    { "name": "Marshmallow (the snow monster)", "img": "Placeholder" },
-    { "name": "Bulda (a troll)", "img": "Placeholder" },
-    { "name": "Cliff (a troll)", "img": "Placeholder" },
-    { "name": "The Bishop", "img": "Placeholder" }
+    { "name": "Elsa", "img": "https://static.wikia.nocookie.net/frozen/images/d/d2/Elsa_-_Eternal_winter.png/revision/latest?cb=20200412213048" },
+    { "name": "Anna", "img": "https://static.wikia.nocookie.net/frozen/images/4/4b/Anna_-_Elsa%27s_coronation.png/revision/latest?cb=20200413121033" },
+    { "name": "Olaf", "img": "https://static.wikia.nocookie.net/frozen/images/a/ae/Olaf_-_ice_forest.png/revision/latest?cb=20200414171230" },
+    { "name": "Kristoff", "img": "https://static.wikia.nocookie.net/frozen/images/6/60/Kristoff_-_Search_for_Elsa.png/revision/latest?cb=20200423125257" },
+    { "name": "Sven", "img": "https://static.wikia.nocookie.net/frozen/images/4/4a/Sven_-_Adult.png/revision/latest?cb=20200423131403" },
+    { "name": "Hans", "img": "https://static.wikia.nocookie.net/frozen/images/c/c3/Hans_-_coronation.png/revision/latest?cb=20200418204455" },
+    { "name": "Duke of Weselton", "img": "https://static.wikia.nocookie.net/frozen/images/2/2e/Duke_of_Weselton_and_guards.png/revision/latest?cb=20141222040147" },
+    { "name": "Grand Pabbie", "img": "https://static.wikia.nocookie.net/frozen/images/b/b4/Pabbie_arrives.png/revision/latest?cb=20141226033546" },
+    { "name": "Oaken", "img": "https://static.wikia.nocookie.net/frozen/images/3/32/Oaken.png/revision/latest?cb=20141227023412" },
+    { "name": "Queen Iduna", "img": "https://static.wikia.nocookie.net/frozen/images/c/c0/Iduna.png/revision/latest?cb=20200113130550" },
+    { "name": "King Agnarr", "img": "https://static.wikia.nocookie.net/frozen/images/2/2c/Agnarr_-_King.png/revision/latest?cb=20200430112146" },
+    { "name": "Marshmallow", "img": "https://static.wikia.nocookie.net/frozen/images/7/7b/Marshmallow_-_Calm.png/revision/latest?cb=20200419122001" },
+    { "name": "Bulda", "img": "https://static.wikia.nocookie.net/frozen/images/c/c9/Bulda_suggesting_a_kiss.png/revision/latest?cb=20141226181540" },
+    { "name": "Cliff", "img": "https://static.wikia.nocookie.net/frozen/images/a/a0/Cliff.png/revision/latest?cb=20141226181806" },
+    { "name": "The Bishop", "img": "https://static.wikia.nocookie.net/frozen/images/f/f0/Bishop.png/revision/latest?cb=20150101213852" }
   ]
 }
