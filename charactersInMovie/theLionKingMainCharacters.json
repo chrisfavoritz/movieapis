@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "name": "Simba", "img": "https://static.wikia.nocookie.net/lionking/images/1/1c/Older_Simba.png/revision/latest/scale-to-width-down/300?cb=20230717184019" },
+    { "name": "Mufasa", "img": "https://static.wikia.nocookie.net/lionking/images/e/e5/Mufasa.png/revision/latest/scale-to-width-down/1000?cb=20130512234313" },
+    { "name": "Scar", "img": "https://static.wikia.nocookie.net/lionking/images/c/c7/Scar.png/revision/latest/scale-to-width-down/300?cb=20201103034112" },
+    { "name": "Nala", "img": "https://static.wikia.nocookie.net/lionking/images/1/18/Older_Nala.png/revision/latest/scale-to-width-down/1000?cb=20200208051532" },
+    { "name": "Timon", "img": "https://static.wikia.nocookie.net/lionking/images/9/9c/Timon_option_3.png/revision/latest/scale-to-width-down/300?cb=20200416005608" },
+    { "name": "Pumbaa", "img": "https://static.wikia.nocookie.net/lionking/images/c/cf/It_means_no_worries.png/revision/latest/scale-to-width-down/1000?cb=20200716232623" },
+    { "name": "Rafiki", "img": "https://static.wikia.nocookie.net/lionking/images/a/ac/Updated_Fiki.png/revision/latest/scale-to-width-down/1000?cb=20200915054518" }
+  ]
+}
