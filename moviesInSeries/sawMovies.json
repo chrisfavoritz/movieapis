@@ -1,12 +1,13 @@
 {
   "items": [
-    { "name": "Saw (2004)", "img": "Placeholder" },
-    { "name": "Saw II (2005)", "img": "Placeholder" },
-    { "name": "Saw III (2006)", "img": "Placeholder" },
-    { "name": "Saw IV (2007)", "img": "Placeholder" },
-    { "name": "Saw V (2008)", "img": "Placeholder" },
-    { "name": "Saw VI (2009)", "img": "Placeholder" },
-    { "name": "Saw 3D (2010)", "img": "Placeholder" },
-    { "name": "Jigsaw (2017)", "img": "Placeholder" }
+    { "name": "Saw (2004)", "img": "https://static.wikia.nocookie.net/sawfilms/images/5/56/Saw_official_poster.jpg/revision/latest?cb=20180604183627" },
+    { "name": "Saw II (2005)", "img": "https://static.wikia.nocookie.net/sawfilms/images/c/cf/Saw_2_poster.jpg/revision/latest?cb=20210607214006" },
+    { "name": "Saw III (2006)", "img": "https://static.wikia.nocookie.net/sawfilms/images/1/16/Saw3-blood-poster.jpg/revision/latest?cb=20170707035545" },
+    { "name": "Saw IV (2007)", "img": "https://static.wikia.nocookie.net/sawfilms/images/2/27/200px-Saw4final.jpg/revision/latest?cb=20090429111326" },
+    { "name": "Saw V (2008)", "img": "https://static.wikia.nocookie.net/sawfilms/images/e/ec/Saw_V_New_Poster.jpg/revision/latest?cb=20170709035742" },
+    { "name": "Saw VI (2009)", "img": "https://static.wikia.nocookie.net/sawfilms/images/0/04/Saw6Promo3.jpg/revision/latest?cb=20170711154805" },
+    { "name": "Saw 3D (2010)", "img": "https://static.wikia.nocookie.net/sawfilms/images/1/16/Saw-3D-Final-Chapter-Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20120422072750" },
+    { "name": "Jigsaw (2017)", "img": "https://static.wikia.nocookie.net/sawfilms/images/2/22/JigsawTheatricalPoster.jpg/revision/latest?cb=20171024043350" },
+    { "name": "Spiral: From the Book of Saw (2021)", "img": "https://static.wikia.nocookie.net/sawfilms/images/2/2b/Spiral_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20210331121201" }
   ]
 }
