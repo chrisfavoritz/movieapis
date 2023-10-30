@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Frodo Baggins", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/9/98/FrodoLOTR4.jpg/revision/latest?cb=20170821005305" },
+    { "name": "Samwise Gamgee", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/9/96/SamLOTR.jpg/revision/latest?cb=20170822191409" },
+    { "name": "Aragorn", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/b/ba/Anduril.jpg/revision/latest?cb=20170821165631" },
+    { "name": "Legolas", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/c/c0/Legolas2.jpg/revision/latest?cb=20190721145737" },
+    { "name": "Gimli", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/4/43/Gimli.jpg/revision/latest?cb=20190721143832" },
+    { "name": "Gandalf the Grey", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/8/8c/Gandalf_DOS.png/revision/latest/scale-to-width-down/1000?cb=20190712143715" },
+    { "name": "Boromir", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/c/c1/Boromir_LOTR.jpg/revision/latest?cb=20190721022545" },
+    { "name": "Merry", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/d/d8/Merry1.jpg/revision/latest?cb=20170822190818" },
+    { "name": "Pippin", "img": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/4/42/A2fce82d30ed3eaa960a84323e8a4397.jpg/revision/latest?cb=20180927194506" }
+  ]
+}
