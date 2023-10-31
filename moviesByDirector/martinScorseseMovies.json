@@ -1,0 +1,30 @@
+{
+  "items": [
+    { "name": "Who's That Knocking at My Door (1967)", "img": "https://upload.wikimedia.org/wikipedia/en/2/23/Who%27s_That_Knocking_at_My_Door_film_poster.jpg" },
+    { "name": "Boxcar Bertha (1972)", "img": "https://static.wikia.nocookie.net/filmguide/images/2/20/Boxcar_Bertha_poster.jpeg/revision/latest?cb=20220321035628" },
+    { "name": "Mean Streets (1973)", "img": "https://upload.wikimedia.org/wikipedia/en/2/26/Mean_Streets_original_1973_theatrical_poster.png" },
+    { "name": "Alice Doesn't Live Here Anymore (1974)", "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Alice_Doesn%27t_Live_Here_Anymore.jpg" },
+    { "name": "Taxi Driver (1976)", "img": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg" },
+    { "name": "New York, New York (1977)", "img": "https://upload.wikimedia.org/wikipedia/en/6/62/New_York_New_York_poster.jpg" },
+    { "name": "Raging Bull (1980)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Raging_Bull_poster.jpg" },
+    { "name": "The King of Comedy (1982)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Kingofcomedy.jpg" },
+    { "name": "After Hours (1985)", "img": "https://upload.wikimedia.org/wikipedia/en/7/75/After_Hours_%28film%29_POSTER.jpg" },
+    { "name": "The Color of Money (1986)", "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Color_Of_Money.jpg" },
+    { "name": "The Last Temptation of Christ (1988)", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_Last_Temptation_of_Christ_poster.png" },
+    { "name": "Goodfellas (1990)", "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg" },
+    { "name": "Cape Fear (1991)", "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Cape_fear_91.jpg" },
+    { "name": "The Age of Innocence (1993)", "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Age_Of_Innocence.jpg" },
+    { "name": "Casino (1995)", "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Casino_%28Martins_Scorsese_film%29.png" },
+    { "name": "Kundun (1997)", "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Kundun_film_poster.jpg" },
+    { "name": "Bringing Out the Dead (1999)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Bringing_out_the_dead.jpg" },
+    { "name": "Gangs of New York (2002)", "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Gangs_of_New_York_Poster.jpg" },
+    { "name": "The Aviator (2004)", "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Aviator_%282004%29.png" },
+    { "name": "The Departed (2006)", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg" },
+    { "name": "Shutter Island (2010)", "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg" },
+    { "name": "Hugo (2011)", "img": "https://upload.wikimedia.org/wikipedia/en/7/73/Hugo_Poster.jpg" },
+    { "name": "The Wolf of Wall Street (2013)", "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png" },
+    { "name": "Silence (2016)", "img": "https://upload.wikimedia.org/wikipedia/en/3/36/Silence_%282016_film%29.png" },
+    { "name": "The Irishman (2019)", "img": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Irishman_poster.jpg" },
+    { "name": "Killers of the Flower Moon (2023)", "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Killers_of_the_Flower_Moon_film_poster.jpg" }
+  ]
+}
