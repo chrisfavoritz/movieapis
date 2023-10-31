@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Reservoir Dogs (1992)", "img": "Placeholder" },
-    { "name": "Pulp Fiction (1994)", "img": "Placeholder" },
-    { "name": "Jackie Brown (1997)", "img": "Placeholder" },
-    { "name": "Kill Bill: Vol. 1 (2003)", "img": "Placeholder" },
-    { "name": "Kill Bill: Vol. 2 (2004)", "img": "Placeholder" },
-    { "name": "Death Proof (2007) [Part of the Grindhouse double feature]", "img": "Placeholder" },
-    { "name": "Inglourious Basterds (2009)", "img": "Placeholder" },
-    { "name": "Django Unchained (2012)", "img": "Placeholder" },
-    { "name": "The Hateful Eight (2015)", "img": "Placeholder" },
-    { "name": "Once Upon a Time in Hollywood (2019)", "img": "Placeholder" }
+    { "name": "Reservoir Dogs (1992)", "img": "https://upload.wikimedia.org/wikipedia/en/0/01/Reservoir_Dogs.png" },
+    { "name": "Pulp Fiction (1994)", "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg" },
+    { "name": "Jackie Brown (1997)", "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Jackie_Brown_%281997%29.png" },
+    { "name": "Kill Bill: Vol. 1 (2003)", "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Kill_Bill_Volume_1.png" },
+    { "name": "Kill Bill: Vol. 2 (2004)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Kill_Bill_Volume_2.png" },
+    { "name": "Death Proof (2007)", "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Death_Proof_USA_Poster.png" },
+    { "name": "Inglourious Basterds (2009)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Inglourious_Basterds_poster.jpg" },
+    { "name": "Django Unchained (2012)", "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg" },
+    { "name": "The Hateful Eight (2015)", "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Hateful_Eight.jpg" },
+    { "name": "Once Upon a Time in Hollywood (2019)", "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Once_Upon_a_Time_in_Hollywood_poster.png" }
   ]
 }
