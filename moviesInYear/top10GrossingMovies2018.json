@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Black Panther", "img": "placeholder_image_url" },
-    { "name": "Avengers: Infinity War", "img": "placeholder_image_url" },
-    { "name": "Incredibles 2", "img": "placeholder_image_url" },
-    { "name": "Jurassic World: Fallen Kingdom", "img": "placeholder_image_url" },
-    { "name": "Aquaman", "img": "placeholder_image_url" },
-    { "name": "Deadpool 2", "img": "placeholder_image_url" },
-    { "name": "The Grinch", "img": "placeholder_image_url" },
-    { "name": "Mission: Impossible – Fallout", "img": "placeholder_image_url" },
-    { "name": "Ant-Man and the Wasp", "img": "placeholder_image_url" },
-    { "name": "Bohemian Rhapsody", "img": "placeholder_image_url" }
+    { "name": "Black Panther", "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg" },
+    { "name": "Avengers: Infinity War", "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" },
+    { "name": "Incredibles 2", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Incredibles_2_%282018_animated_film%29.jpg" },
+    { "name": "Jurassic World: Fallen Kingdom", "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png" },
+    { "name": "Aquaman", "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg" },
+    { "name": "Deadpool 2", "img": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg" },
+    { "name": "The Grinch", "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Grinch%2C_final_poster.jpg" },
+    { "name": "Mission: Impossible – Fallout", "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg" },
+    { "name": "Ant-Man and the Wasp", "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" },
+    { "name": "Bohemian Rhapsody", "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Bohemian_Rhapsody_poster.png" }
   ]
 }
