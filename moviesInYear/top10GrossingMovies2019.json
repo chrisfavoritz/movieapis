@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Avengers: Endgame", "img": "placeholder_image_url" },
-    { "name": "The Lion King", "img": "placeholder_image_url" },
-    { "name": "Star Wars: The Rise of Skywalker", "img": "placeholder_image_url" },
-    { "name": "Frozen II", "img": "placeholder_image_url" },
-    { "name": "Toy Story 4", "img": "placeholder_image_url" },
-    { "name": "Captain Marvel", "img": "placeholder_image_url" },
-    { "name": "Spider-Man: Far From Home", "img": "placeholder_image_url" },
-    { "name": "Aladdin", "img": "placeholder_image_url" },
-    { "name": "Joker", "img": "placeholder_image_url" },
-    { "name": "Jumanji: The Next Level", "img": "placeholder_image_url" }
+    { "name": "Avengers: Endgame", "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" },
+    { "name": "The Lion King", "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg" },
+    { "name": "Star Wars: The Rise of Skywalker", "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg" },
+    { "name": "Frozen II", "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg" },
+    { "name": "Toy Story 4", "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Toy_Story_4_poster.jpg" },
+    { "name": "Captain Marvel", "img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg" },
+    { "name": "Spider-Man: Far From Home", "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg" },
+    { "name": "Aladdin", "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Aladdin_%28Official_2019_Film_Poster%29.png" },
+    { "name": "Joker", "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg" },
+    { "name": "Jumanji: The Next Level", "img": "https://upload.wikimedia.org/wikipedia/en/1/12/Jumanji_-The_Next_Level_film_poster.jpg" }
   ]
 }
