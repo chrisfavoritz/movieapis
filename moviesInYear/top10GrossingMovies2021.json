@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Spider-Man: No Way Home", "img": "placeholder_image_url" },
-    { "name": "Shang-Chi and the Legend of the Ten Rings", "img": "placeholder_image_url" },
-    { "name": "Venom: Let There Be Carnage", "img": "placeholder_image_url" },
-    { "name": "Black Widow", "img": "placeholder_image_url" },
-    { "name": "F9", "img": "placeholder_image_url" },
-    { "name": "Eternals", "img": "placeholder_image_url" },
-    { "name": "Sing 2", "img": "placeholder_image_url" },
-    { "name": "No Time To Die", "img": "placeholder_image_url" },
-    { "name": "A Quiet Place Part II", "img": "placeholder_image_url" },
-    { "name": "Ghostbusters: Afterlife", "img": "placeholder_image_url" }
+    { "name": "Spider-Man: No Way Home", "img": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" },
+    { "name": "Shang-Chi and the Legend of the Ten Rings", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg" },
+    { "name": "Venom: Let There Be Carnage", "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg" },
+    { "name": "Black Widow", "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg" },
+    { "name": "F9", "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg" },
+    { "name": "Eternals", "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Eternals_%28film%29_poster.jpeg" },
+    { "name": "Sing 2", "img": "https://upload.wikimedia.org/wikipedia/en/8/87/Sing_2_poster.jpg" },
+    { "name": "No Time To Die", "img": "https://www.movieart.ch/bilder_l/no-time-to-die-james-bond-007-movieposter-14809_0_l.jpg" },
+    { "name": "A Quiet Place Part II", "img": "https://upload.wikimedia.org/wikipedia/en/0/02/A_Quiet_Place_Part_II.jpg" },
+    { "name": "Ghostbusters: Afterlife", "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg" }
   ]
 }
