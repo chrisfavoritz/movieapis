@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Top Gun: Maverick", "img": "placeholder_image_url" },
-    { "name": "Avatar: The Way of Water", "img": "placeholder_image_url" },
-    { "name": "Black Panther: Wakanda Forever", "img": "placeholder_image_url" },
-    { "name": "Doctor Strange in the Multiverse of Madness", "img": "placeholder_image_url" },
-    { "name": "Jurassic World Dominion", "img": "placeholder_image_url" },
-    { "name": "Minions: The Rise of Gru", "img": "placeholder_image_url" },
-    { "name": "The Batman", "img": "placeholder_image_url" },
-    { "name": "Thor: Love and Thunder", "img": "placeholder_image_url" },
-    { "name": "Sonic the Hedgehog 2", "img": "placeholder_image_url" },
-    { "name": "Puss in Boots: The Last Wish", "img": "placeholder_image_url" }
+    { "name": "Top Gun: Maverick", "img": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg" },
+    { "name": "Avatar: The Way of Water", "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg" },
+    { "name": "Black Panther: Wakanda Forever", "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Black_Panther_Wakanda_Forever_poster.jpg" },
+    { "name": "Doctor Strange in the Multiverse of Madness", "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg" },
+    { "name": "Jurassic World Dominion", "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/JurassicWorldDominion_Poster.jpeg" },
+    { "name": "Minions: The Rise of Gru", "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Minions_The_Rise_of_Gru_poster.jpg" },
+    { "name": "The Batman", "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg" },
+    { "name": "Thor: Love and Thunder", "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Thor_Love_and_Thunder_poster.jpeg" },
+    { "name": "Sonic the Hedgehog 2", "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg" },
+    { "name": "Puss in Boots: The Last Wish", "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Puss_in_Boots_The_Last_Wish_poster.jpg" }
   ]
 }
