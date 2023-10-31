@@ -1,15 +1,16 @@
 {
   "items": [
-    { "name": "Following (1998)", "img": "Placeholder" },
-    { "name": "Memento (2000)", "img": "Placeholder" },
-    { "name": "Insomnia (2002)", "img": "Placeholder" },
-    { "name": "Batman Begins (2005)", "img": "Placeholder" },
-    { "name": "The Prestige (2006)", "img": "Placeholder" },
-    { "name": "The Dark Knight (2008)", "img": "Placeholder" },
-    { "name": "Inception (2010)", "img": "Placeholder" },
-    { "name": "The Dark Knight Rises (2012)", "img": "Placeholder" },
-    { "name": "Interstellar (2014)", "img": "Placeholder" },
-    { "name": "Dunkirk (2017)", "img": "Placeholder" },
-    { "name": "Tenet (2020)", "img": "Placeholder" }
+    { "name": "Following (1998)", "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Following_film_poster.jpg" },
+    { "name": "Memento (2000)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg" },
+    { "name": "Insomnia (2002)", "img": "https://upload.wikimedia.org/wikipedia/en/7/7c/Insomnia2002Poster.jpg" },
+    { "name": "Batman Begins (2005)", "img": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg" },
+    { "name": "The Prestige (2006)", "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg" },
+    { "name": "The Dark Knight (2008)", "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg" },
+    { "name": "Inception (2010)", "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg" },
+    { "name": "The Dark Knight Rises (2012)", "img": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg" },
+    { "name": "Interstellar (2014)", "img": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" },
+    { "name": "Dunkirk (2017)", "img": "https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg" },
+    { "name": "Tenet (2020)", "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg" },
+    { "name": "Oppenheimer (2023)", "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg" }
   ]
 }
