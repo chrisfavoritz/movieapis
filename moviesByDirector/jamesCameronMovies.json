@@ -1,13 +1,13 @@
 {
   "items": [
-    { "name": "Piranha II: The Spawning (1982)", "img": "Placeholder" },
-    { "name": "The Terminator (1984)", "img": "Placeholder" },
-    { "name": "Aliens (1986)", "img": "Placeholder" },
-    { "name": "The Abyss (1989)", "img": "Placeholder" },
-    { "name": "Terminator 2: Judgment Day (1991)", "img": "Placeholder" },
-    { "name": "True Lies (1994)", "img": "Placeholder" },
-    { "name": "Titanic (1997)", "img": "Placeholder" },
-    { "name": "Avatar (2009)", "img": "Placeholder" },
-    { "name": "Avatar 2 (Scheduled for release in 2022)", "img": "Placeholder" }
+    { "name": "Piranha II: The Spawning (1982)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Piranha_II_-_The_Spawning_%28movie_poster%29.jpg" },
+    { "name": "The Terminator (1984)", "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Terminator1984movieposter.jpg" },
+    { "name": "Aliens (1986)", "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_poster.jpg" },
+    { "name": "The Abyss (1989)", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/TheAbyss.jpg" },
+    { "name": "Terminator 2: Judgment Day (1991)", "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg" },
+    { "name": "True Lies (1994)", "img": "https://upload.wikimedia.org/wikipedia/en/8/81/True_Lies_poster.png" },
+    { "name": "Titanic (1997)", "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png" },
+    { "name": "Avatar (2009)", "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg" },
+    { "name": "Avatar: The Way of Water (2022)", "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg" }
   ]
 }
