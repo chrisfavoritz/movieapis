@@ -1,19 +1,19 @@
 {
   "items": [
-    { "name": "Action", "img": "Placeholder" },
-    { "name": "Adventure", "img": "Placeholder" },
-    { "name": "Animation", "img": "Placeholder" },
-    { "name": "Comedy", "img": "Placeholder" },
-    { "name": "Crime", "img": "Placeholder" },
-    { "name": "Drama", "img": "Placeholder" },
-    { "name": "Fantasy", "img": "Placeholder" },
-    { "name": "Horror", "img": "Placeholder" },
-    { "name": "Musical", "img": "Placeholder" },
-    { "name": "Mystery", "img": "Placeholder" },
-    { "name": "Romance", "img": "Placeholder" },
-    { "name": "Science Fiction", "img": "Placeholder" },
-    { "name": "Thriller", "img": "Placeholder" },
-    { "name": "War", "img": "Placeholder" },
-    { "name": "Western", "img": "Placeholder" }
+    { "name": "Action", "img": "https://em-content.zobj.net/source/apple/354/oncoming-fist_1f44a.png" },
+    {"name": "Adventure", "img": "https://em-content.zobj.net/source/apple/354/world-map_1f5fa-fe0f.png"},
+    { "name": "Animation", "img": "https://em-content.zobj.net/source/apple/354/alien-monster_1f47e.png" },
+    { "name": "Comedy", "img": "https://em-content.zobj.net/source/apple/354/face-with-tears-of-joy_1f602.png" },
+    { "name": "Crime", "img": "https://em-content.zobj.net/source/apple/354/money-bag_1f4b0.png" },
+    { "name": "Drama", "img": "https://em-content.zobj.net/source/apple/354/face-holding-back-tears_1f979.png" },
+    { "name": "Fantasy", "img": "https://em-content.zobj.net/source/apple/354/crystal-ball_1f52e.png" },
+    { "name": "Horror", "img": "https://em-content.zobj.net/source/apple/354/drop-of-blood_1fa78.png" },
+    { "name": "Musical", "img": "https://em-content.zobj.net/source/apple/354/musical-notes_1f3b6.png" },
+    { "name": "Mystery", "img": "https://em-content.zobj.net/source/apple/354/magnifying-glass-tilted-right_1f50e.png" },
+    { "name": "Romance", "img": "https://em-content.zobj.net/source/apple/354/kiss-mark_1f48b.png" },
+    { "name": "Science Fiction", "img": "https://em-content.zobj.net/source/apple/354/flying-saucer_1f6f8.png" },
+    { "name": "Thriller", "img": "https://em-content.zobj.net/source/apple/354/roller-coaster_1f3a2.png" },
+    { "name": "War", "img": "https://em-content.zobj.net/source/apple/354/military-helmet_1fa96.png" },
+    { "name": "Western", "img": "https://em-content.zobj.net/source/apple/354/horse_1f40e.png" }
   ]
 }
