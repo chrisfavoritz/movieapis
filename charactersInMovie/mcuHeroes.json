@@ -1,7 +1,7 @@
 {
   "items": [
     { "name": "Tony Stark / Iron Man", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/1000?cb=20190423175213" },
-    { "name": "Steve Rogers / Captain America", "img": "https://marvelcinematicuniverse.fandom.com/wiki/Steve_Rogers?file=CapAmerica-EndgameProfile.jpg" },
+    { "name": "Steve Rogers / Captain America", "img": "https://static.wikia.nocookie.net/captain-america/images/2/21/Steverogers.png/revision/latest?cb=20180428184300" },
     { "name": "Natasha Romanoff / Black Widow", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9a/BlackWidow-EndgameProfile.jpg/revision/latest/scale-to-width-down/1000?cb=20190423174842" },
     { "name": "Bruce Banner / Hulk", "img": "https://i.pinimg.com/564x/dd/f1/ee/ddf1ee4783b58e44e6169d49acec3470.jpg" },
     { "name": "Thor", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Thor_in_LoveAndThunder_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20230709230707" },
@@ -13,7 +13,7 @@
     { "name": "Rocket Raccoon", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/TH_RocketEndgame.jpg/revision/latest/scale-to-width-down/1000?cb=20190406003009" },
     { "name": "Groot", "img": "https://static.wikia.nocookie.net/disney-marvel-gotg/images/e/ed/GrootAIW.jpg/revision/latest?cb=20181218012104" },
     { "name": "Nebula", "img": "https://static.wikia.nocookie.net/p__/images/5/59/Nebula_AIW_Profile.jpg/revision/latest/scale-to-width-down/1000?cb=20180624205022&path-prefix=protagonist" },
-    { "name": "Peter Parker / Spider-Man", "img": "https://infinitywar.fandom.com/wiki/Peter_Parker?file=Avengers-infinity-war-poster-spider-man-tom-holland.jpg" },
+    { "name": "Peter Parker / Spider-Man", "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Tom_Holland_as_Spider-Man.jpg?20210519000343" },
     { "name": "T'Challa / Black Panther", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/99/Black_Panther_AIW_Profile.jpg/revision/latest/scale-to-width-down/1000?cb=20180518212436" },
     { "name": "Stephen Strange / Doctor Strange", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg/revision/latest?cb=20220521045701" },
     { "name": "Carol Danvers / Captain Marvel", "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/ca/Carol_The_Marvels.png/revision/latest/scale-to-width-down/1000?cb=20230720174852" },
