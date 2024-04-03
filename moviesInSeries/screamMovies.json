@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Scream (1996)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg"
+    },
+    {
+      "name": "Scream 2 (1997)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Scream_2.jpg"
+    },
+    {
+      "name": "Scream 3 (2000)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Scream3_ver2.jpg"
+    },
+    {
+      "name": "SCRE4M (2011)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Scream4Poster.jpg"
+    },
+    {
+      "name": "Scream (2022)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/Scream2022film.jpeg"
+    },
+    {
+      "name": "Scream VI (2023)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/Scream_VI_poster.jpg"
+    }
+  ]
+}
